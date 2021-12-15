@@ -848,7 +848,7 @@ section {
 }
 .services .icon-box i {
   float: left;
-  color: #5c8eb0;
+  color: rgb(201, 155, 5);;
   font-size: 40px;
   line-height: 0;
 }
