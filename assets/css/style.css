@@ -848,7 +848,7 @@ section {
 }
 .services .icon-box i {
   float: left;
-  color: rgb(201, 155, 5);;
+  color: rgb(201, 155, 5);
   font-size: 40px;
   line-height: 0;
 }
@@ -859,7 +859,7 @@ section {
   font-size: 18px;
 }
 .services .icon-box h4 a {
-  color: #365870;
+  color: rgb(201, 155, 5);
   transition: 0.3s;
 }
 .services .icon-box .icon-box:hover h4 a {
