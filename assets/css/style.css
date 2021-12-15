@@ -863,7 +863,7 @@ section {
   transition: 0.3s;
 }
 .services .icon-box .icon-box:hover h4 a {
-  color: #ff4a17;
+  color: maroon;
 }
 .services .icon-box p {
   margin-left: 70px;
