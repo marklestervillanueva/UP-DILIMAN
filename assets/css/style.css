@@ -956,7 +956,7 @@ section {
   opacity: 0.5;
 }
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #ff4a17;
+  background-color: maroon;
   opacity: 1;
 }
 
