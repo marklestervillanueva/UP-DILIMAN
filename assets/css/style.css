@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #444444;
+  color: black;
 }
 
 a {
@@ -729,7 +729,7 @@ section {
   color: maroon;
 }
 .about-boxes .card-text {
-  color: #5e5e5e;
+  color: black;
 }
 .about-boxes .card:hover .card-icon i {
   background: maroon;
