@@ -869,6 +869,7 @@ section {
   margin-left: 70px;
   line-height: 24px;
   font-size: 14px;
+  color: black ;
 }
 .services .icon-box:hover h4 a {
   color: maroon;
