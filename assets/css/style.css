@@ -549,7 +549,7 @@ section {
   transition: ease-in-out 0.3s;
 }
 .about .count-box a:hover {
-  color: #477392;
+  color: green;
 }
 .about .content {
   font-size: 15px;
