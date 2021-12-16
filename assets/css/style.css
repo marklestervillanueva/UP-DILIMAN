@@ -549,7 +549,7 @@ section {
   transition: ease-in-out 0.3s;
 }
 .about .count-box a:hover {
-  color: green;
+  color: #477392;
 }
 .about .content {
   font-size: 15px;
@@ -820,6 +820,7 @@ section {
 .features .tab-pane h3 {
   font-weight: 700;
   font-size: 24px;
+  color: rgb(201, 155, 5)
 }
 .features .tab-pane ul {
   list-style: none;
