@@ -484,7 +484,7 @@ section {
   margin: 0 0 5px 0;
   letter-spacing: 2px;
   text-transform: uppercase;
-  color: #5c8eb0;
+  color: black;
   font-family: "Poppins", sans-serif;
 }
 .section-title h2::after {
@@ -492,7 +492,7 @@ section {
   width: 120px;
   height: 1px;
   display: inline-block;
-  background: #ff8664;
+  background: maroon;
   margin: 4px 10px;
 }
 .section-title p {
@@ -502,7 +502,7 @@ section {
   font-weight: 700;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #263d4d;
+  color: rgb(201, 155, 5);
 }
 
 /*--------------------------------------------------------------
