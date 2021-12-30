@@ -558,6 +558,7 @@ section {
   font-weight: 700;
   font-size: 24px;
   color: rgb(201, 155, 5);
+  margin-top: 18px;
 }
 .about .content ul {
   list-style: none;
