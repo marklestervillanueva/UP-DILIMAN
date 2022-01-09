@@ -712,7 +712,7 @@ section {
   background-color: #5e7562;
   border-radius: 4px;
   text-align: center;
-  border: 4px solid black;
+  border: 4px solid rgb(201, 155, 5);
   transition: 0.3s;
   display: inline-block;
 }
