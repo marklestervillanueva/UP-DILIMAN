@@ -733,7 +733,7 @@ section {
   color: black;
 }
 .about-boxes .card:hover .card-icon i {
-  background: #5e7562;
+  background: maroon;
   color: rgb(201, 155, 5);
 }
 @media (max-width: 1024px) {
