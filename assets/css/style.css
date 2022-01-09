@@ -469,7 +469,7 @@ section {
 }
 
 .section-bg {
-  background-color: #497756; 
+  background-color: #5e7562;; 
 }
 
 .section-title {
@@ -685,7 +685,7 @@ section {
   right: 0;
   top: 0;
   bottom: 0;
-  background: rgba(255, 255, 255, 0.92);
+  background: transparent;
   z-index: 9;
 }
 .about-boxes .container, .about-boxes .container-fluid {
