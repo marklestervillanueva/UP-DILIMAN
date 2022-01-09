@@ -988,7 +988,7 @@ section {
 }
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
   color: #fff;
-  background: #ff4a17;
+  background: maroon;
 }
 .portfolio #portfolio-flters li:last-child {
   margin-right: 0;
