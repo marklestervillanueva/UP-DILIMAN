@@ -1248,7 +1248,7 @@ section {
   border-radius: 4px;
 }
 .contact .php-email-form input:focus, .contact .php-email-form textarea:focus {
-  border-color: #ff4a17;
+  border-color: maroon;
 }
 .contact .php-email-form input {
   padding: 10px 15px;
@@ -1257,7 +1257,7 @@ section {
   padding: 12px 15px;
 }
 .contact .php-email-form button[type=submit] {
-  background: #ff4a17;
+  background: maroon;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -1265,7 +1265,7 @@ section {
   border-radius: 4px;
 }
 .contact .php-email-form button[type=submit]:hover {
-  background: #ff5e31;
+  background: maroon;
 }
 @-webkit-keyframes animate-loading {
   0% {
