@@ -1063,10 +1063,10 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #ff4a17;
+  border: 1px solid maroon;
 }
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #ff4a17;
+  background-color: maroon;
 }
 .portfolio-details .portfolio-info {
   padding: 30px;
