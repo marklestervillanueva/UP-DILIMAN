@@ -1103,7 +1103,9 @@ section {
 # Team
 --------------------------------------------------------------*/
 .team {
-  background-color: mintcream;
+  background: url(../img/news-bg2.jpg) center top no-repeat fixed;
+    background-size: cover;
+    padding: 60px 0 30px 0;
     position: relative;
 
 }
