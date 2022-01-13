@@ -1103,9 +1103,7 @@ section {
 # Team
 --------------------------------------------------------------*/
 .team {
-  background: url(../img/news-bg.jpeg) center top no-repeat fixed;
-    background-size: cover;
-    padding: 60px 0 30px 0;
+  background-color: mintcream;
     position: relative;
 
 }
@@ -1121,8 +1119,8 @@ section {
   overflow: hidden;
 }
 .team .member .member-info {
-  position: absolute;
-  bottom: -50px;
+  position: relative;
+  bottom: -20px;
   left: 20px;
   right: 20px;
   background: #fff;
@@ -1131,6 +1129,7 @@ section {
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
   overflow: hidden;
   transition: 0.5s;
+  margin-right: 40px;
 }
 .team .member h4 {
   font-weight: 700;
@@ -1153,7 +1152,7 @@ section {
 .team .member span {
   font-style: italic;
   display: block;
-  font-size: 13px;
+  font-size: 15px;
 }
 .team .member .social {
   position: absolute;
