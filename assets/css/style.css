@@ -1104,6 +1104,7 @@ section {
 --------------------------------------------------------------*/
 .team {
   position: relative;
+  background-color: gray;
 }
 .team .container {
   position: relative;
